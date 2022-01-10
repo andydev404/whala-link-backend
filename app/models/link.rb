@@ -7,6 +7,6 @@ class Link < ApplicationRecord
   private
 
   def generate_slug
-    self.slug = SecureRandom.uuid[0..6] if slug.nil?
+    self.slug = SecureRandom.uuid[0..6] if slug.nil? || slug.blank?
   end
 end
