@@ -2,6 +2,8 @@
 
 This is a shortener url for practical purpose only
 
+[DEMO](https://whala.link)
+
 ## Endpoints
 
 ```bash
