@@ -1,6 +1,8 @@
 # API Whala Link
 
-This is an shortener url for practical purpose only
+This is a shortener url for practical purpose only
+
+[DEMO](https://whala.link)
 
 ## Endpoints
 
